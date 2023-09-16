@@ -31,5 +31,5 @@ Link to app to be provided.
 
 </p>
 <p align="center">
-<img src="" width="450">
+<img src="https://github.com/szduniak-ba/Create-new-password/blob/main/Create%20new%20password.jpg" width="450">
 </p>
