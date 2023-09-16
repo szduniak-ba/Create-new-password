@@ -19,9 +19,9 @@ _**Non-functional requirements**_
 
 # Lessons learnt
 On the way when I was creating the functionality I was facing following questions:
-- how to divide activities into pools?
-- 
-
+- how to project an activity diagram with time event
+- how to project diagram with double authentication in app
+  
 
 
 # App link repo
