@@ -29,7 +29,7 @@ Link to app to be provided.
 
 # UML Diagram activity
 
-</p>
-<p align="center">
-<img src="https://github.com/szduniak-ba/Create-new-password/blob/main/Create%20new%20password.jpg" width="450">
+<p>
+! [Alt text](/relative/path/to/img.jpg?raw=true "Create new password")
+
 </p>
