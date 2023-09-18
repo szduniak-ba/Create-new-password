@@ -29,7 +29,7 @@ Link to app to be provided.
 
 # UML Diagram activity
 
-<p>
-! [Alt text](/relative/path/to/Create_new_password.jpg?raw=true "Create new password")
 
-</p>
+![](/relative/path/to/Create_new_password.jpg?raw=true "Create new password")
+
+
