@@ -30,6 +30,6 @@ Link to app to be provided.
 # UML Diagram activity
 
 <p>
-! [(/relative/path/to/Create new password.jpg?raw=true "Create new password")]
+! [(Create new password.jpg?raw=true "Create new password")]
 
 </p>
