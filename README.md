@@ -30,6 +30,6 @@ Link to app to be provided.
 # UML Diagram activity
 
 
-![](images/Create_new_password.jpg)
+![](create-new-password.jpg)
 
 
